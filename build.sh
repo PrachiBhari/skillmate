@@ -11,3 +11,4 @@ python manage.py collectstatic --no-input
 
 # 3. Apply database migrations to the PostgreSQL DB
 python manage.py migrate
+
