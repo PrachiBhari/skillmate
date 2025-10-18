@@ -167,3 +167,4 @@ cloudinary.config (
     api_key = os.environ.get('CLOUDINARY_API_KEY', 'placeholder_api_key'),
     api_secret = os.environ.get('CLOUDINARY_API_SECRET', 'placeholder_api_secret'),
 )
+
